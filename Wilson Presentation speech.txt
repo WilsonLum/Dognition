@@ -1,0 +1,173 @@
+[Story 1]
+## Introduction
+Introduction: Hello My name is Wilson Lum, and today I will present my Findings and business recommendations and smart goal 
+for our client Dognition to help them to increase the numbers of users to complete test on their website 
+
+Problem Statement: 
+Dognition is facing varying degree of users subscription and participation levels and a consistent trend of drop off test rates
+
+Objectives:
+Our ultimate Smart Goal is to help Dognition Company (https://www.dognition.com/) increase the numbers of users complete test on 
+their website by 10% over the next 6 months. 
+The Recommendations proposed are intended to increase user game completion rates. To get a better picture of this phenomena. 
+
+[Story 2]
+
+## Agenda
+For the agenda, I will cover on the demographic of Dogs and Dognition customer geographic spread in order for us to understand in 
+depth of their dog’s profile and which market we can focus on. Then follow by the next 3 sections where we go into deeper depth to 
+understand the dog profile completion and drop off rates and the last 2 section to look into the User participation rate and insights 
+into User behaviour dynamics.
+
+•	Demographics of the Dogs
+•	Geographical spread of Dognition Customer worldwide
+•	Breed Type & Group Completion Rate 
+•	Drop off rate of Test Names and sub-category Games
+•	Dog-Fix and DNA-Test Completion Rate
+•	User Active participation time frame
+•	Drop off rates insights User Behaviour covering the Free Start User and Membership Completion Rate.
+
+[Story 3]
+
+------------------------------------------------------------------------------------------------------------------------------------
+We start into analysing dog demographics and customer geographical spread in order to get a better picture of what their client dog 
+profile and customer base looks like.  
+------------------------------------------------------------------------------------------------------------------------------------
+
+## Dog Demograhpics
+First we can take a look at the demographics of Dognition Clients dogs to understand more of their client profile. We can see that the 
+dogs are evenly distributed in terms of gender, and most not DNA tested and fixed. 52% are pure breed. The Subscription type of membership 
+chosen by the user seems to be at a very low subset and also most users prefer to be in the “Initial 20 Games” membership follow by 
+annual subscriptions based.
+
+[Story 4]
+
+## Geographical Spread of the Customer
+Second, we begin by looking at the Geographical Spread of the customer base so we may have a better idea of where to focus sales and
+marketing efforts.
+1.	The US by far has the highest amount of Dognition customers in the world.
+2.	Rest of the world which include EU and Australia has higher users compare to the rest. This is probably may due to these countries 
+are having dog loving culture. 
+3.	California is the state with the highest population of Dognition users. 
+Therefore: Based on this data, we can develop a strategy that will focus on marketing and sales efforts in the regions with highest 
+population of users : CA, NC, NY, TX, FL.
+
+[Story 5]
+
+------------------------------------------------------------------------------------------------------------------------------------
+Now we move into analysing completion rates in order to get a better picture of what dog profile, Game Activities, User activity and 
+membership looks like.  
+------------------------------------------------------------------------------------------------------------------------------------
+
+## Breed Type & Group Completion Rate
+Looking at the Breed Type, Pure Breed together with the sporting group achieve the most completion rate. This may due to the nature 
+of the active games that motivates this group and breed type where users find useful from the games played. 
+We can implement new Test Game profile with respect to different Dog Breed and group characteristic to increase their interest and 
+motivation of continuation of following up test games.
+
+[Story 6]
+
+## Dog Fix & DNA Test Completion Rate
+Looking at the Dig Fix chart showing there are more Dog fixed sign-in and completion rate than the non-fixed type and more non tested 
+DNA completion rate than DNA tested ones.
+From these charts we will like to advise Dognition to focus probably take a survey on those dogs owner whose dogs are not fixed and 
+DNA tested to see what are obstacles and preferences they are facing for taking up the test.
+
+[Story 7]
+
+## TestName & SubCategory Completion Rate
+For users subscribe Dognition’s service, they and their dogs can play 20 interactive games by sequence and then get an in-depth analysis 
+report about your dogs’ characteristics. But according to the analysis of Dognition data, many dog owners and dogs don’t complete each 
+test but quit the games after the fourth test – Eye Contact Game as shown in the top bar chart.
+
+In the bottom bar chart, most users only finish the Empathy category of total tests and stop playing the game. The main problem may be 
+the game design; the Communication subcategory games may be a little difficult for the dogs so that they cannot finish the tasks.
+In general, there is a decrease when going from one subcategory to another subcategory. This overall trend reveals that users generally 
+drop after completing a subcategory this might suggest that it's challenging for dog owners to keep their pets engaged to complete another 
+subcategory, so the owner becomes discouraged from continuing on with the test. Also perhaps dogs have low attention spans, therefore, 
+they might need a break before moving on to a new subcategory.
+
+•	Dognition should re-design the tests because the difficulty and sequence of the games may not be comfortable and interesting for 
+    current users
+•	Introduce competition and information to user on how their dogs are performing compares to others and a channel for their users 
+    to share how they make improvements for their own dogs
+•	Introduce training session after each test to help them to improve their dog.
+
+[Story 8]
+
+## User Active Time
+We still need to explore drop off rates. To have a complete picture of user behavior we need data that tells us the story behind 
+low participation levels.
+In the Sign-in by Hour Graph it shows that at 7pm Dognition customers play the most amount of games and these probabl due to most 
+of the client has knock from work. In the sign-in By day chart exhibit that weekend especially on Sunday has the most active users.
+In Sign-in By month bar chart shows the most tests completed: October 2014. 
+
+What Happened in October 2014?
+
+Dognition was featured on "60 minutes" in Oct 2014. This reveals Publicity did have an effect on increasing user participation 
+levels even after Oct 2014 average volumes is more than those before Oct 2014.
+From this data, we can begin to create a strategy to use targeted reminders. Since we know when customers tend to play the games
+
+[Story 9]
+
+## Drop-Off Rate Insight User Behaviour
+Dognition periodically tries offering a “Free Start” promotion to customers that gives the customers the first four tests for free. 
+The hypothesis (or hope) would be that once potential customers get a chance to experience the product first-hand, they will be more 
+likely to buy a subscription. But from the below chart we can see that Free Start users dropped more after the fourth game than No 
+Free Start users. So this promotion strategy is not so effective. 
+One way to is to use the newly created Dog profile to fit the respective client Dog profile games and have game selection that are 
+much easier to start with and probably reduce it to first 2 game instead of 4.
+In the bottom chart Membership completion rate shows that annual subscription has the highest active sign in and test completion rate. 
+Create promotion incentives for monthly subscriptions to annual for customer retainability since user psychologies will encourage them 
+to have more participation when they are paying for the services whereas for those short term or free users may not have the 
+motivation to do so.
+
+[Story 10]
+
+## Conclusion
+Now that we acquired a better understanding in the Dog Profile and behind user participation and drop off rates. So how exactly 
+can we increase user participation levels and improve the user experience during tests?
+Let's look at Recommendation summary:
+
+1)	Implement new features: 
+    a.	Introduce competition to compete for who has the most talented dog and who has the best personality relationship with his owner. 
+    b.	Create a channel for user to share their experiences
+    c.	Introduce training help for those who want to improve their dogs test score
+    d.	Create Dog profiles in terms of breed type and group that can match their respective game preference. 
+	    Dognition can do more research from the data on the different breed type and group to which game they 
+		are more motivated to play, meaning create a different game profile for different breed type and group 
+		of dogs and hence when given their user’s dog profile, Dognition can recommend respective game profile.
+2)	We will like to advise Dognition to focus probably take a survey on those dogs owner whose dogs are not fixed 
+    and DNA tested to see what are obstacles and preferences they are facing for taking up the test.
+3)	Send out targeted Reminders 
+a.	For reminders to be effect it's critical to send out during times where engagement drops the most especially. 
+    (Eye Contact game which is the fourth game). Also during times where users are most active such as after-work 
+	periods, and on Sunday sat 7pm.
+4)	For free Start User, one way to is to use the newly created Dog profile to fit the respective client Dog profile 
+    games and have game selection that are much easier to start with and probably reduce it to first 2 game instead of 4
+5)	Use Social media as an alternative to the free start promotion and online advertisement as alternative 
+    promotion strategies
+6)	Offer the paying customers a small incentive, gift certificates to Petco, or set up a point program that acumulates 
+    as you complete tests and accessments to later cash in and claim gifts
+7)	Create promotion incentives for monthly and “Initial 20 Games” subscriptions to annual for customer retainability 
+    since user psychologies will encourage them to have more participation when they are paying for the services whereas 
+	for those short term or free users may not have the motivation to do so.
+8)	Machine learning model prediction
+    a.	With existing and more Dognition data, we can help to develop a machine learning or deep learning model to predict 
+        users behaviour and send recommendations to user based on the predictions. 
+    b.	Dognition could get more User profile data such as the gender, age and address so that for eg location may be a 
+        factor for inconvenience for certain game type and the demographic profile of users may be giving some hints to 
+	    certain preference.
+
+This concludes my recommendations for dognition. Thank you for watching.
+
+
+Links:
+Public Tableau Link:
+https://public.tableau.com/views/Dognition-FInalProjectv0_2/DognitionFinalProject?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+
+Screen cast link:
+https://www.screencast.com/t/RZyPnnX1UivU
+
+
+
